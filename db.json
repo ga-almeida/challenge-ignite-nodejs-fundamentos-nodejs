@@ -1,0 +1,28 @@
+{
+  "tasks": [
+    {
+      "id": "106b9637-ba39-4cfb-ac4f-3c38c851a4df",
+      "title": "serviços externos",
+      "description": "serviços realizados externamente",
+      "completed_at": null,
+      "created_at": "2023-02-08T20:23:13.297Z",
+      "updated_at": null
+    },
+    {
+      "id": "596323ea-de7b-46bb-a56f-4f25018b09e5",
+      "title": "serviços internos (barato)",
+      "description": "serviços realizados internamente",
+      "completed_at": null,
+      "created_at": "2023-02-08T20:23:26.650Z",
+      "updated_at": "2023-02-08T20:25:38.366Z"
+    },
+    {
+      "id": "2bb8bfe3-acb5-40d5-9f2f-879519f519e2",
+      "title": "serviços internos (caro)",
+      "description": "serviços realizados internamente",
+      "completed_at": "2023-02-08T20:29:29.280Z",
+      "created_at": "2023-02-08T20:26:02.654Z",
+      "updated_at": null
+    }
+  ]
+}
